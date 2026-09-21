@@ -1,4 +1,5 @@
 # Simple Mesh Editor
+![SimpleMeshEditor](../Thumb/SimpleMeshEditor_Thumb.png)
 
 VFX용 Mesh의 Vertex Color와 UV를 Unity Editor 안에서 빠르게 수정하는 도구입니다.
 
