@@ -1,5 +1,5 @@
 # Easy Rename
-!(Thumb/EasyRename _Thumb.png)
+![EasyRename](Thumb/EasyRename_Thumb.png)
 Project 창에서 선택한 여러 에셋의 이름을 규칙에 맞춰 한 번에 변경하는 도구입니다.
 
 ## 주요 기능
