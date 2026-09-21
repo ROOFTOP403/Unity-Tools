@@ -1,4 +1,5 @@
 # SDF Generator
+![SDFGenerator](../Thumb/SDFGenerator_Thumb.png)
 
 한 장 이상의 텍스처를 합쳐 흑백 SDF 이미지를 생성하는 도구입니다.
 
