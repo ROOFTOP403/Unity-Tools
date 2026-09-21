@@ -1,5 +1,6 @@
 # Projectile Previewer
-![Prjectile Previewer](../Thumb/ProjectilePreviewer_Thumb.png)
+![ProjectilePreviewer](../Thumb/ProjectilePreviewer_Thumb.png)
+
 DOTween으로 움직이는 투사체를 Play Mode에 들어가지 않고 Scene 뷰에서 미리 보는 도구입니다.
 
 ## 주요 기능
