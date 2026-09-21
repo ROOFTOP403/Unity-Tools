@@ -1,5 +1,6 @@
 # Performance Monitor
 ![PerformanceMonitor](../Thumb/PerformanceMonitor_Thumb.png)
+![PerformanceMonitor](../Thumb/PerformanceMonitor_02_Thumb.png)
 
 Unity Play Mode와 Development Build에서 FX 및 Timeline의 프레임 성능을 기록하는 진단 도구입니다.
 
