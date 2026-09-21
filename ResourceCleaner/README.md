@@ -1,4 +1,5 @@
 # Resource Cleaner
+![ResourceCleaner](../Thumb/ResourceCleaner_Thumb.png)
 
 선택한 Material, Mesh, Texture가 씬이나 프로젝트에서 사용 중인지 확인하고 머티리얼을 정리하는 도구입니다.
 
