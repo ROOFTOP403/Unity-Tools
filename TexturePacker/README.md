@@ -1,4 +1,5 @@
 # Texture Packer
+![TexturePacker](../Thumb/TexturePacker_Thumb.png)
 
 텍스처의 RGBA 채널을 개별 이미지로 분리하거나 여러 흑백 이미지를 한 장의 채널 텍스처로 합치는 도구입니다.
 
